@@ -63,6 +63,7 @@ add_llvm_component_library(LLVMTransformUtils
   MemoryOpRemark.cpp
   MemoryTaggingSupport.cpp
   Mem2Reg.cpp
+  test2.cpp
   MetaRenamer.cpp
   MisExpect.cpp
   ModuleUtils.cpp
